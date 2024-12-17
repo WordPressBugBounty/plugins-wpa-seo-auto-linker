@@ -1,15 +1,14 @@
 === SEO Auto Linker ===
 Contributors: arjanolsder
 Plugin Name: SEO Auto Linker
-Plugin URI: https://www.digishock.com
+Plugin URI: https://www.websitenazorg.nl
 Tags:  post, posts, pages, tags, categories, comments, links, seo, google, automatic, link, cornerstone, RSS
-Author URI: https://www.digishock.com
-Author: WP Assist
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LRFCEJLZQW7A (digishock)
+Author URI: https://www.websitenazorg.nl
+Author: WebsiteNazorg.nl
 Requires at least: 5.6
-Tested up to: 6.0
-Stable tag: 1.5.2
-Version: 1.5.2
+Tested up to: 6.7.1
+Stable tag: 1.5.3
+Version: 1.5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +76,9 @@ Support has not been tested. After the Gutenburg update, we will put our resourc
 * Open in new tab option
 * Oxygen Builder compatilibity
 * Smarter cache handling
+
+=1.5.3 17-12-2024 =
+* Maintenance release to prepare new development
 
 =1.5 22-06-2022 =
 * Bugfix
